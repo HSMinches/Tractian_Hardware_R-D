@@ -19,7 +19,7 @@ Development of a full wireless communication system based on TI CC3220S.
  - Ease of use 
  - Components availability 
  - Small form factor ( SMD antenna with an external antenna option )
- - Battery powered
+ - Battery-powered
  
 -Tools used
  - Altium 

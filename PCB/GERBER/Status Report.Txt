@@ -1,0 +1,34 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [TRACTIAN.PrjPcb]
+   Generated File[wifi_Copper_Signal_Top.gbr]
+   Generated File[wifi_Copper_Plane_1.gbr]
+   Generated File[wifi_Copper_Signal_1.gbr]
+   Generated File[wifi_Copper_Signal_Bot.gbr]
+   Generated File[wifi_Pads_Bot.gbr]
+   Generated File[wifi_Pads_Top.gbr]
+   Generated File[wifi_Legend_Bot.gbr]
+   Generated File[wifi_Soldermask_Bot.gbr]
+   Generated File[wifi_Paste_Bot.gbr]
+   Generated File[wifi_Legend_Top.gbr]
+   Generated File[wifi_Paste_Top.gbr]
+   Generated File[wifi_Soldermask_Top.gbr]
+   Generated File[wifi_Keep-out.gbr]
+   Generated File[wifi_Mechanical_13.gbr]
+   Generated File[wifi_Mechanical_5.gbr]
+   Generated File[wifi_Mechanical_1.gbr]
+   Generated File[wifi_Mechanical_15.gbr]
+   Generated File[wifi_Profile.gbr]
+   Generated File[wifi_NPTH_Drill.gbr]
+   Generated File[wifi_PTH_Drill.gbr]
+   Generated File[wifi_Drawing_1.gbr]
+   Generated File[wifi_Drillmap_1.gbr]
+   Generated File[wifi.RUL]
+   Generated File[wifi.EXTREP]
+   Generated File[wifi.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 5:21:03 PM On 10/7/2022

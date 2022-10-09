@@ -1,1 +1,7 @@
 - Use of Energia, CCS and Uniflash 
+
+- 130 meters max @ 1 DSSS ( 18dbm Tx power)
+ -estimated value for a 2dbi antenna on both ends and a RX sensitivity of -96 dBm
+
+
+ 

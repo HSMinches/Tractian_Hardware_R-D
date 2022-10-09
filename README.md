@@ -7,10 +7,12 @@ Development of a full wireless communication system based on TI CC3220S.
  
 -PCB + 3D + draftsman
  - Gerber X2 included
+ - Further tests required (PDN, EMC and thermal management)
  
 -Firmware 
  - C code and component specific libraries are used 
  - To be developed :pull archives from nearby devices connected to the network and send to another device
+ - Not tested IRL to prove functionality 
 
 -Requirements:
  - 100 meters range air gap 
@@ -20,6 +22,7 @@ Development of a full wireless communication system based on TI CC3220S.
  - Components availability 
  - Small form factor ( SMD antenna with an external antenna option )
  - Battery-powered
+ - 500kb of data transmission
  
 -Tools used
  - Altium 

@@ -1,1 +1,9 @@
+Warnings: 
 
+-Project developed with parts that are available and others that shall be available before Christmas.
+
+-LTC3586EUFE-3#TRPBF is an alternative part for the LTC3553EUD#PBF ( not footprint compatible ).
+
+-The BOM might alter considerably according to specific applications .
+
+-This is an initial concept, thus nothing was propertly tested or revised by third parties. 

@@ -14,6 +14,7 @@ Development of a full wireless communication system based on TI CC3220S.
  - C code and component specific libraries are used 
  - To be developed :pull archives from nearby devices connected to the network and send to another device
  - Not tested IRL to prove functionality 
+ - TI RF tool recommended for test 
 
 -Requirements:
  - 100 meters range air gap 

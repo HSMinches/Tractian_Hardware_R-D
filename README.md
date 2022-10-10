@@ -1,6 +1,7 @@
 # Tractian_Hardware_R-D
 
 Development of a full wireless communication system based on TI CC3220S.
+
 (1 week challenge)
 
 The CC3220s microcontroller was chosen because of its extremely compact format, ranging from internal switching voltage 

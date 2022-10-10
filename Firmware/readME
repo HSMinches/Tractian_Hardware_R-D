@@ -10,7 +10,8 @@ provided a large range of configurable RF and power states and that is also conf
 In order to achieve the required range and low power, the user can change those settings or choose an option that offers a high
 transfer rate in exchange for range, in case an OTA update is required.
 
-![Data transmission output](C:/Users/Heitor/Documents/tractian/Screenshot%202022-10-10%20043454.png)  
+![My Remote Image](https://drive.google.com/file/d/1UejUih51yRt5544mOemiF4BljsQfjeay/view?usp=sharing)
+
 
 The Mux tool / Sys configuration tool must be changed accordingly to the board used. Since I am bound to my launchpad hardware 
 setup, I needed to use a port configuration different from the PCB developed. Thus the user leds in the PCB will have different

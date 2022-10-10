@@ -3,5 +3,15 @@
 - 130 meters max @ 1 DSSS ( 18dbm Tx power)
  -estimated value for a 2dbi antenna on both ends and a RX sensitivity of -96 dBm
 
+NOTES: 
+
+Since ease of use was one of the requirements, "Arduino function wise", I decided it was better to use a TI radio tool code that 
+provided a large range of configurable RF and power states and that is also configurable as a server, client, AP, and others. 
+In order to achieve the required range and low power, the user can change those settings or choose an option that offers a high
+transfer rate in exchange for range, in case an OTA update is required.
+
+The Mux tool / Sys configuration tool must be changed accordingly to the board used. Since I am bound to my launchpad hardware 
+setup, I needed to use a port configuration different from the PCB developed. 
+
 
  

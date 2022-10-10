@@ -9,6 +9,8 @@ regulation to a fully integrated RF section with security features. It can be re
 
 The PCB design can be used with an internal or external antenna, depending on the application form factor and range requirement. It was developed with the goal of using only 4 layers. In the event of a reduced area(<3400sqmm) necessity, the number of layers might increase to 6 and the battery type will need to be altered since it is an 18650 cell.
 
+Details and comments from each part of the design can be found in its respective folders. 
+
 
 -Schematics 
  - Organized using the "Overview" file 

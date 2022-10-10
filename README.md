@@ -14,7 +14,6 @@ Development of a full wireless communication system based on TI CC3220S.
  - C code and component specific libraries are used 
  - To be developed :pull archives from nearby devices connected to the network and send to another device
  - Not tested IRL to prove functionality 
- - No arduino based compatible code found, however it might be functional with CC13xx  
  - TI RF tool recommended for test 
 
 -Requirements:

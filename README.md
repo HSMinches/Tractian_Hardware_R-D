@@ -38,6 +38,6 @@ Details and comments from each part of the design can be found in its respective
  - Uniflash
  - Energia 
  
-For further development and testing: Power supplies, VNA ( for antenna impedance network calibration ), multimeters ( for power consumption measurement ) and logic analyzers.
+For further development and testing: power supplies, VNA ( for antenna impedance network calibration ), multimeters ( for power consumption measurement), and logic analyzers.
 
 
